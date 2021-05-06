@@ -5,9 +5,9 @@ import PostBlock from './components/PostBlock'
 function App() {
   return (
     <div className="App text-center p-5">
-      <PostBlock text="hey it's me pussy faggot!" poster="Mike" likes={0}/>
+      <PostBlock text="hey it's me!!!" poster="Mike" likes={0}/>
 
-      <PostBlock text="whats up nigga!" poster="Batman" likes={-1}/>
+      <PostBlock text="whats up brotha!" poster="Batman" likes={-1}/>
 
       <PostBlock text="I love money!!!!!" poster="Uncle PennyBags" likes={5000}/>
 

@@ -10,4 +10,5 @@ const Personcard = props => {
     );
 }
 
+
 export default Personcard;
